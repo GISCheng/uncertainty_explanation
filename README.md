@@ -18,17 +18,17 @@ The program of uncertainty estimation and explanation is developed by Tianqi Wan
 ## Environment
 Python 3.9.23
 
-Important Python packages:
-numpy 1.25.2
-pandas 1.4.1
-seaborn 0.13.2
-matplotlib 3.5.1
-pytorch 1.10.0 
-scikit-learn 1.6.1
-shap 0.43.0
-eli5 0.16.0
-xgboost 1.5.0
-scipy 1.9.3
+Important Python packages:\\
+numpy 1.25.2\\
+pandas 1.4.1\\
+seaborn 0.13.2\\
+matplotlib 3.5.1\\
+pytorch 1.10.0\\
+scikit-learn 1.6.1\\
+shap 0.43.0\\
+eli5 0.16.0\\
+xgboost 1.5.0\\
+scipy 1.9.3\\
 
 ## Cite
 Please consider citing our paper if this helps in your work:
