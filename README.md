@@ -1,5 +1,3 @@
-# uncertainty_explanation
-
 # Uncertainty explanation of AI models
 
 ## Title: Uncertainty explanation of artificial intelligence models by SHAP
