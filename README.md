@@ -9,10 +9,10 @@ The “black box” characteristic of AI models has received widespread attentio
 The program of uncertainty estimation and explanation is developed by Tianqi Wang, please also see his Github ([Uncertainty](https://github.com/wanglaoban1993/Uncertainty)).
 
 ## File description
-1. The file "houseprice_SHAP_variance_github.ipynb" is the demo program of the experiments including data processing, uncertainty estimation, uncertainty explanation, and explanation evaluation based on the housing price data.
-2. The file "housing_price_data.csv" is the experimental data of this demo from an opensource data ([The Boston Housing Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)).
+1. The file "houseprice_SHAP_variance_github.ipynb" is a demo program for the experiments, which includes data processing, uncertainty estimation, uncertainty explanation, and explanation evaluation based on housing price data.
+2. The file "housing_price_data.csv" is the experimental data of this demo from an open-source dataset ([The Boston Housing Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)).
 3. The file "data_split.pickle" is the index group to divide the data into train, validation, and test datasets.
-4. The file "trained_model.pth" is the parameters of a trained model to predict the housing price.
+4. The file "trained_model.pth" contains the parameters of a trained model to predict the housing price.
 5. The file "global_xai_variance_\[0.71805446\].pickle" is an example of uncertainty explanation results with an expected_value=0.71805446.
 
 ## Environment
